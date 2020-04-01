@@ -1,1 +1,1 @@
-web: python CalculPrix.py
+web: gunicorn CalculPrix:app
