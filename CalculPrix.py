@@ -25,5 +25,5 @@ class CalculPrix(Resource):
 
 api.add_resource(CalculPrix, '/')
 
-if __name__ == '__main__':
-    app.run(debug=True)
+"""if __name__ == '__main__':
+    app.run(debug=True)"""
